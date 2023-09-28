@@ -12,12 +12,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
   <div align="center">
-  <style>
-    #nextjs-badge {
-      animation: fade 2s infinite;
-    }
-  </style>
-  <img id="nextjs-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+  <img style="animation: fade 2s infinite;" id="nextjs-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
