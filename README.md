@@ -1,3 +1,1 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Reza;A+developer+who+constantly+embraces+challenges+and+strives+to+continuously+expand+my+knowledge.&center=true&width=500&height=50"></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Reza...;A+developer+who+constantly+learns." alt="Typing SVG" /></a>
